@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 class Magic extends Component {
    render() {
     return (
-    <>Hola React!</>
+    <>Hola React! Test</>
     )
    
 }
